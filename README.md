@@ -73,9 +73,7 @@
 - 🚀 Built and shipped **HOTEL-INTELLIGENT-AND-REVENUE-PRESERVSTION-SYSTEM**, **GLBot1.0** and some more!
 - 👥 Led a team of **12** engineers and succesfully delivered **EDU-TRACKER-PROJECT** ahead of schedule
 - 📦 Built more than 5 advanced data modelling and Model pridicting projects. You can check that out in my repo.
-- 🏆 Currently leading a team of 12 to launch projects
-
----
+- 🏆 Currently leading a team of 12 to build, launch and manage projects
 
 <!--  TECH STACK (ICON-BASED)  -->
 
@@ -107,15 +105,13 @@
 </tr>
 </table>
 
----
-
 <!--  DYNAMIC STATS  -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gods-light-mdE&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+![](https://github-readme-stats.vercel.app/api?username=gods-light-mdE&show_icons=true&theme=tokyonight&hide_border=true)
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gods-light-md&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gods-light-md&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -130,15 +126,15 @@
 
 ## 🎬 Project Showcase
 
-### [PROJECT NAME] — [one-line tagline]
+### [GlBot1.0] — [An emotional chatbot that summarizes output with the relevent kewwords and not hallucinated jungs.]
 
 **Static screenshot** (standard Markdown syntax):
 
-![Project screenshot](./assets/project-screenshot.png)
+![Project screenshot](./assets/globt1_0.png)
 
 **Demo recording** (GIF/MP4 hosted in the local `/assets` folder, referenced via relative path):
 
-![Project demo](./assets/project-demo.gif)
+![Project demo](./assets/glbot1_0-demo.gif)
 
 ---
 
