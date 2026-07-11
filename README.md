@@ -70,9 +70,7 @@
 
 ## 💥 Impact & Highlights
 
-> Use quantifiable, outcome-driven language — numbers make it credible.
-
-- 🚀 Built and shipped **[PROJECT NAME]**, reducing [metric, e.g., "API response time"] by **[X%]**
+- 🚀 Built and shipped **HOTEL-INTELLIGENT-AND-REVENUE-PRESERVSTION-SYSTEM**, **GLBot1.0** and some more!
 - 👥 Led a team of **12** engineers and succesfully delivered **EDU-TRACKER-PROJECT** ahead of schedule
 - 📦 Built more than 5 advanced data modelling and Model pridicting projects. You can check that out in my repo.
 - 🏆 Currently leading a team of 12 to launch projects
