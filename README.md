@@ -13,8 +13,10 @@
 ### 🔗 Connect with me
 
 <p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/monday-egwu-274756326">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/monday-egwu-274756326">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
+</a>
 <a href="https://twitter.com/https://x.com/IkwuocheG">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
