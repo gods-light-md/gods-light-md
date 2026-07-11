@@ -130,7 +130,7 @@
 
 **Static screenshot** (standard Markdown syntax):
 
-![Project screenshot](./assets/globt1_0.png)
+![Project screenshot](./assets/globt1_0-demo.png)
 
 **Demo recording**
 
@@ -145,7 +145,7 @@
 
 **Demo recording**
 
-![Project demo](./assets/hotel-demo-demo.gif)
+![Project demo](./assets/hotel-demo.gif)
 
 
 <!--  CONTACT  -->
