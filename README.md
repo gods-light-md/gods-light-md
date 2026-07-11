@@ -60,9 +60,9 @@
 
 - 🔭 Currently working on **[AI-powered personal expense and investment tracker]** — I am tired of having cash lickage, so i am currently working on this project so that while i am busy working with the team, my expenses would be tracked by the project
 - 🌱 Currently learning **BACKEND, RAG, HALLUCINATION_FREE_IMPLEMENTATION**
-- 🤝 Open to collaborating on **Data modelling, AI projects, tech talks**
-- 💬 Ask me about **DATA MODELLING, AI PROJECTS AND ELECTRICAL INSTALLATION**
-- ⚡ Fun fact: **I LOVE HAVING CONVERSATION ABOUT THE HARD PROJECT😀**
+- 🤝 Open to collaboration on **Data modeling, AI projects and tech talks**
+- 💬 Ask me about **DATA MODELING, AI PROJECTS AND ELECTRICAL INSTALLATION**
+- ⚡ Fun fact: **I LOVE HAVING CONVERSATION ABOUT THE HARD PROJECTS😀**
 
 ---
 
@@ -158,7 +158,7 @@
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-egwumonday903@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egwumonday903@gmail.com?subject=Let's%20Connect)
 
-[LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/monday-egwu-274756326) · [Twitter](https://twitter.com/https://x.com/IkwuocheG)
+[LinkedIn](https://linkedin.com/in/monday-egwu-274756326) · [Twitter](https://twitter.com/IkwuocheG)
 
 <br>
 
