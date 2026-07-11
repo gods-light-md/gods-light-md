@@ -126,17 +126,27 @@
 
 ## 🎬 Project Showcase
 
-### [GlBot1.0] — [An emotional chatbot that summarizes output with the relevent kewwords and not hallucinated jungs.]
+### GLBot1.0 — An emotional chatbot that summarizes output with the relevent kewwords and not hallucinated jungs.
 
 **Static screenshot** (standard Markdown syntax):
 
 ![Project screenshot](./assets/globt1_0.png)
 
-**Demo recording** (GIF/MP4 hosted in the local `/assets` folder, referenced via relative path):
+**Demo recording**
 
-![Project demo](./assets/glbot1_0-demo.gif)
+![Project demo](./assets/glbot1_0-demo.gif)  
 
----
+
+### HOTEL-INTELLIGENT-AND-REVENUE-PRESERVSTION-SYSTEM — A machine learning model built for preserving hospitality revenue and giving valuable suggestions base on predictions
+
+**Static screenshot**
+
+![Project screenshot](./assets/hotel-demo.png)
+
+**Demo recording**
+
+![Project demo](./assets/hotel-demo-demo.gif)
+
 
 <!--  CONTACT  -->
 
