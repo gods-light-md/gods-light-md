@@ -11,19 +11,17 @@
 # Hi, I'm Egwu Monday 👋 — An AI Full Stack Engineer | Building Intelligent Systems and Implementing Agentic Workflows with RAG System
 
 ### 🔗 Connect with me
-
 <p>
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/monday-egwu-274756326">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/monday-egwu-274756326">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/https://x.com/IkwuocheG">
+<a href="https://twitter.com/IkwuocheG">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 <a href="mailto:egwumonday903@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://dev.to/https://dev.to/godslight1324">
+<a href="https://dev.to/godslight1324">
   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
 </a>
 </p>
